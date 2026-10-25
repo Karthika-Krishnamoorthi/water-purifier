@@ -1,0 +1,6 @@
+{
+  "name": "ClearSense — Water Purifier Monitoring & Maintenance",
+  "description": "Smart monitoring and predictive maintenance assistant for domestic water purifiers (AtomQUEST 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
